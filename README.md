@@ -6,3 +6,11 @@
 3. We wanted to make them by ourselves to get a bit smarter
 <img src="/assets/5ae19a4705e9083c1ed5efcb99ceaf94.jpg" width="200" height="200">
 4. ESC are hard to get novadays
+
+
+# Main Parts of ESC
+Mcu: STM32G071CBU6
+Gate Driver: FD6288Q
+Mosfets: IRFH7004TRPBF (For 45 amp rating, peak 50(after calculating in datasheet))
+
+Why those parts? - Not much expensiever, but a lot stable and better overall quality
