@@ -5,4 +5,5 @@
 2. Diy ESC's are same price as cheap chinese's ones
 3. We wanted to make them by ourselves to get a bit smarter
 ![image](/pictures/5ae19a4705e9083c1ed5efcb99ceaf94.jpg)
+
 4. ESC are hard to get novadays
