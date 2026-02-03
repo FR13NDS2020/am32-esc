@@ -1,4 +1,7 @@
 # am32-esc
 
-
-yes
+# Lets il'l introduce why diy ESC
+1. Chinese AM32 ESC's are pretty weak by itself, pretty poor quality
+2. Diy ESC's are same price as cheap chinese's ones
+3. We wanted to make them by ourselves to get a bit smarter
+4. ESC are hard to get novadays
