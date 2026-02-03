@@ -9,8 +9,8 @@
 
 
 # Main Parts of ESC
-Mcu: STM32G071CBU6
-Gate Driver: FD6288Q
-Mosfets: IRFH7004TRPBF (For 45 amp rating, peak 50(after calculating in datasheet))
+  Mcu: STM32G071CBU6
+  Gate Driver: FD6288Q
+  Mosfets: IRFH7004TRPBF (For 45 amp rating, peak 50(after calculating in datasheet))
 
 Why those parts? - Not much expensiever, but a lot stable and better overall quality
