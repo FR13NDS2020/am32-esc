@@ -5173,7 +5173,7 @@
 		(uuid "5a921ab8-07d3-47c7-9f58-cd3d143efeab")
 	)
 	(junction
-		(at 66.04 181.61)
+		(at 78.74 179.07)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "0211fc83-3cb6-415d-a125-630b59e4cdce")
@@ -5203,7 +5203,7 @@
 		(uuid "135cb413-bd7a-44c2-89b9-26870cc3895e")
 	)
 	(junction
-		(at 83.82 176.53)
+		(at 96.52 173.99)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "1b6bab69-9fdc-44ac-95cc-dfe41217ed12")
@@ -5215,7 +5215,7 @@
 		(uuid "1b7422f0-b58e-44f1-8cde-8443766eb609")
 	)
 	(junction
-		(at 66.04 121.92)
+		(at 78.74 119.38)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "1d6522d9-7c5f-4267-bb66-71c800ef2c4e")
@@ -5251,7 +5251,7 @@
 		(uuid "33ab2db0-e84d-48a8-9c67-b35d203f8557")
 	)
 	(junction
-		(at 142.24 176.53)
+		(at 154.94 173.99)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "350045f1-c5aa-4db2-b1e8-8717adb5572e")
@@ -5323,7 +5323,7 @@
 		(uuid "568f6016-d76f-4d2a-a10c-ecd9ff58b8d4")
 	)
 	(junction
-		(at 66.04 189.23)
+		(at 78.74 186.69)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "59f79092-0346-4ee3-bbe0-84b83b36243f")
@@ -5383,13 +5383,13 @@
 		(uuid "94f09846-a175-4efe-b79c-d6af24f24351")
 	)
 	(junction
-		(at 29.21 140.97)
+		(at 38.1 138.43)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "95a55194-23e4-4514-ba83-2e62d4489474")
 	)
 	(junction
-		(at 66.04 160.02)
+		(at 78.74 157.48)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "a0d34e79-36af-45fc-9df8-1a151414c47a")
@@ -5455,7 +5455,7 @@
 		(uuid "e1a16fd9-310d-4e24-80c0-2bfe237dde3b")
 	)
 	(junction
-		(at 66.04 140.97)
+		(at 78.74 138.43)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "e6a3c1f3-987e-4940-9a2b-8587f7b49b09")
@@ -5479,7 +5479,7 @@
 		(uuid "ee37d480-c484-414f-837b-6af6c47c2593")
 	)
 	(junction
-		(at 102.87 140.97)
+		(at 119.38 138.43)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "f2c95ce4-3647-41b9-bebc-ada6bbcf5a99")
@@ -5596,7 +5596,7 @@
 	)
 	(wire
 		(pts
-			(xy 102.87 140.97) (xy 111.76 140.97)
+			(xy 119.38 138.43) (xy 128.27 138.43)
 		)
 		(stroke
 			(width 0)
@@ -5606,7 +5606,17 @@
 	)
 	(wire
 		(pts
-			(xy 102.87 121.92) (xy 66.04 121.92)
+			(xy 19.05 151.13) (xy 22.86 151.13)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0c800803-9fb0-4d24-8a09-da226e9f6088")
+	)
+	(wire
+		(pts
+			(xy 119.38 119.38) (xy 78.74 119.38)
 		)
 		(stroke
 			(width 0)
@@ -5636,7 +5646,7 @@
 	)
 	(wire
 		(pts
-			(xy 66.04 121.92) (xy 66.04 125.73)
+			(xy 78.74 119.38) (xy 78.74 123.19)
 		)
 		(stroke
 			(width 0)
@@ -5656,7 +5666,7 @@
 	)
 	(wire
 		(pts
-			(xy 123.19 186.69) (xy 128.27 186.69)
+			(xy 135.89 184.15) (xy 140.97 184.15)
 		)
 		(stroke
 			(width 0)
@@ -5686,7 +5696,7 @@
 	)
 	(wire
 		(pts
-			(xy 102.87 125.73) (xy 102.87 121.92)
+			(xy 119.38 123.19) (xy 119.38 119.38)
 		)
 		(stroke
 			(width 0)
@@ -5696,7 +5706,7 @@
 	)
 	(wire
 		(pts
-			(xy 58.42 133.35) (xy 60.96 133.35)
+			(xy 71.12 130.81) (xy 73.66 130.81)
 		)
 		(stroke
 			(width 0)
@@ -5756,7 +5766,7 @@
 	)
 	(wire
 		(pts
-			(xy 29.21 135.89) (xy 29.21 140.97)
+			(xy 38.1 133.35) (xy 38.1 138.43)
 		)
 		(stroke
 			(width 0)
@@ -5836,7 +5846,7 @@
 	)
 	(wire
 		(pts
-			(xy 139.7 176.53) (xy 142.24 176.53)
+			(xy 152.4 173.99) (xy 154.94 173.99)
 		)
 		(stroke
 			(width 0)
@@ -5856,7 +5866,7 @@
 	)
 	(wire
 		(pts
-			(xy 66.04 156.21) (xy 66.04 160.02)
+			(xy 78.74 153.67) (xy 78.74 157.48)
 		)
 		(stroke
 			(width 0)
@@ -5896,7 +5906,7 @@
 	)
 	(wire
 		(pts
-			(xy 21.59 153.67) (xy 24.13 153.67)
+			(xy 30.48 151.13) (xy 33.02 151.13)
 		)
 		(stroke
 			(width 0)
@@ -5936,7 +5946,7 @@
 	)
 	(wire
 		(pts
-			(xy 66.04 189.23) (xy 66.04 191.77)
+			(xy 78.74 186.69) (xy 78.74 189.23)
 		)
 		(stroke
 			(width 0)
@@ -5946,7 +5956,7 @@
 	)
 	(wire
 		(pts
-			(xy 95.25 133.35) (xy 97.79 133.35)
+			(xy 111.76 130.81) (xy 114.3 130.81)
 		)
 		(stroke
 			(width 0)
@@ -6066,7 +6076,7 @@
 	)
 	(wire
 		(pts
-			(xy 58.42 153.67) (xy 60.96 153.67)
+			(xy 71.12 151.13) (xy 73.66 151.13)
 		)
 		(stroke
 			(width 0)
@@ -6113,6 +6123,16 @@
 			(type default)
 		)
 		(uuid "54350c6c-9bf7-4b0a-a72a-aa80ba5de1d1")
+	)
+	(wire
+		(pts
+			(xy 19.05 130.81) (xy 22.86 130.81)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "56149bbb-7b82-4866-aa09-8ca4d2ad79fd")
 	)
 	(wire
 		(pts
@@ -6166,7 +6186,7 @@
 	)
 	(wire
 		(pts
-			(xy 95.25 153.67) (xy 97.79 153.67)
+			(xy 111.76 151.13) (xy 114.3 151.13)
 		)
 		(stroke
 			(width 0)
@@ -6186,7 +6206,7 @@
 	)
 	(wire
 		(pts
-			(xy 29.21 156.21) (xy 29.21 160.02)
+			(xy 38.1 153.67) (xy 38.1 157.48)
 		)
 		(stroke
 			(width 0)
@@ -6213,6 +6233,16 @@
 			(type default)
 		)
 		(uuid "620febcd-a5cf-466c-8c08-0d9171f76a0f")
+	)
+	(wire
+		(pts
+			(xy 59.69 151.13) (xy 63.5 151.13)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "63f35e61-e101-475d-aaf1-4610772deb6d")
 	)
 	(wire
 		(pts
@@ -6256,7 +6286,7 @@
 	)
 	(wire
 		(pts
-			(xy 66.04 160.02) (xy 102.87 160.02)
+			(xy 78.74 157.48) (xy 119.38 157.48)
 		)
 		(stroke
 			(width 0)
@@ -6266,7 +6296,7 @@
 	)
 	(wire
 		(pts
-			(xy 29.21 121.92) (xy 66.04 121.92)
+			(xy 38.1 119.38) (xy 78.74 119.38)
 		)
 		(stroke
 			(width 0)
@@ -6306,7 +6336,7 @@
 	)
 	(wire
 		(pts
-			(xy 66.04 140.97) (xy 66.04 146.05)
+			(xy 78.74 138.43) (xy 78.74 143.51)
 		)
 		(stroke
 			(width 0)
@@ -6316,7 +6346,7 @@
 	)
 	(wire
 		(pts
-			(xy 123.19 176.53) (xy 132.08 176.53)
+			(xy 135.89 173.99) (xy 144.78 173.99)
 		)
 		(stroke
 			(width 0)
@@ -6366,7 +6396,7 @@
 	)
 	(wire
 		(pts
-			(xy 66.04 135.89) (xy 66.04 140.97)
+			(xy 78.74 133.35) (xy 78.74 138.43)
 		)
 		(stroke
 			(width 0)
@@ -6386,7 +6416,7 @@
 	)
 	(wire
 		(pts
-			(xy 66.04 160.02) (xy 66.04 181.61)
+			(xy 78.74 157.48) (xy 78.74 179.07)
 		)
 		(stroke
 			(width 0)
@@ -6486,7 +6516,7 @@
 	)
 	(wire
 		(pts
-			(xy 142.24 182.88) (xy 142.24 186.69)
+			(xy 154.94 180.34) (xy 154.94 184.15)
 		)
 		(stroke
 			(width 0)
@@ -6506,7 +6536,7 @@
 	)
 	(wire
 		(pts
-			(xy 83.82 176.53) (xy 87.63 176.53)
+			(xy 96.52 173.99) (xy 100.33 173.99)
 		)
 		(stroke
 			(width 0)
@@ -6706,7 +6736,7 @@
 	)
 	(wire
 		(pts
-			(xy 78.74 176.53) (xy 83.82 176.53)
+			(xy 91.44 173.99) (xy 96.52 173.99)
 		)
 		(stroke
 			(width 0)
@@ -6786,7 +6816,7 @@
 	)
 	(wire
 		(pts
-			(xy 29.21 125.73) (xy 29.21 121.92)
+			(xy 38.1 123.19) (xy 38.1 119.38)
 		)
 		(stroke
 			(width 0)
@@ -6896,7 +6926,7 @@
 	)
 	(wire
 		(pts
-			(xy 66.04 181.61) (xy 87.63 181.61)
+			(xy 78.74 179.07) (xy 100.33 179.07)
 		)
 		(stroke
 			(width 0)
@@ -6916,7 +6946,7 @@
 	)
 	(wire
 		(pts
-			(xy 68.58 186.69) (xy 68.58 189.23)
+			(xy 81.28 184.15) (xy 81.28 186.69)
 		)
 		(stroke
 			(width 0)
@@ -6926,7 +6956,7 @@
 	)
 	(wire
 		(pts
-			(xy 29.21 140.97) (xy 29.21 146.05)
+			(xy 38.1 138.43) (xy 38.1 143.51)
 		)
 		(stroke
 			(width 0)
@@ -6956,7 +6986,7 @@
 	)
 	(wire
 		(pts
-			(xy 102.87 140.97) (xy 102.87 146.05)
+			(xy 119.38 138.43) (xy 119.38 143.51)
 		)
 		(stroke
 			(width 0)
@@ -7006,7 +7036,7 @@
 	)
 	(wire
 		(pts
-			(xy 71.12 176.53) (xy 73.66 176.53)
+			(xy 83.82 173.99) (xy 86.36 173.99)
 		)
 		(stroke
 			(width 0)
@@ -7036,7 +7066,7 @@
 	)
 	(wire
 		(pts
-			(xy 29.21 160.02) (xy 66.04 160.02)
+			(xy 38.1 157.48) (xy 78.74 157.48)
 		)
 		(stroke
 			(width 0)
@@ -7056,7 +7086,7 @@
 	)
 	(wire
 		(pts
-			(xy 71.12 168.91) (xy 71.12 176.53)
+			(xy 83.82 166.37) (xy 83.82 173.99)
 		)
 		(stroke
 			(width 0)
@@ -7076,7 +7106,7 @@
 	)
 	(wire
 		(pts
-			(xy 68.58 189.23) (xy 66.04 189.23)
+			(xy 81.28 186.69) (xy 78.74 186.69)
 		)
 		(stroke
 			(width 0)
@@ -7096,7 +7126,7 @@
 	)
 	(wire
 		(pts
-			(xy 142.24 176.53) (xy 142.24 177.8)
+			(xy 154.94 173.99) (xy 154.94 175.26)
 		)
 		(stroke
 			(width 0)
@@ -7106,7 +7136,7 @@
 	)
 	(wire
 		(pts
-			(xy 83.82 168.91) (xy 83.82 176.53)
+			(xy 96.52 166.37) (xy 96.52 173.99)
 		)
 		(stroke
 			(width 0)
@@ -7156,7 +7186,7 @@
 	)
 	(wire
 		(pts
-			(xy 21.59 133.35) (xy 24.13 133.35)
+			(xy 30.48 130.81) (xy 33.02 130.81)
 		)
 		(stroke
 			(width 0)
@@ -7166,7 +7196,7 @@
 	)
 	(wire
 		(pts
-			(xy 29.21 140.97) (xy 38.1 140.97)
+			(xy 38.1 138.43) (xy 46.99 138.43)
 		)
 		(stroke
 			(width 0)
@@ -7206,7 +7236,7 @@
 	)
 	(wire
 		(pts
-			(xy 102.87 135.89) (xy 102.87 140.97)
+			(xy 119.38 133.35) (xy 119.38 138.43)
 		)
 		(stroke
 			(width 0)
@@ -7246,6 +7276,16 @@
 	)
 	(wire
 		(pts
+			(xy 59.69 130.81) (xy 63.5 130.81)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "da22bbe4-1bbb-4161-b731-3d585eddeceb")
+	)
+	(wire
+		(pts
 			(xy 38.1 44.45) (xy 38.1 49.53)
 		)
 		(stroke
@@ -7276,7 +7316,7 @@
 	)
 	(wire
 		(pts
-			(xy 102.87 160.02) (xy 102.87 156.21)
+			(xy 119.38 157.48) (xy 119.38 153.67)
 		)
 		(stroke
 			(width 0)
@@ -7293,6 +7333,16 @@
 			(type default)
 		)
 		(uuid "dcd4588b-a2f5-4af9-b08f-acd0464db1ca")
+	)
+	(wire
+		(pts
+			(xy 100.33 151.13) (xy 104.14 151.13)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "de1572c4-4bd9-45c6-9641-100d46cbffad")
 	)
 	(wire
 		(pts
@@ -7406,7 +7456,7 @@
 	)
 	(wire
 		(pts
-			(xy 87.63 186.69) (xy 68.58 186.69)
+			(xy 100.33 184.15) (xy 81.28 184.15)
 		)
 		(stroke
 			(width 0)
@@ -7426,7 +7476,7 @@
 	)
 	(wire
 		(pts
-			(xy 153.67 176.53) (xy 142.24 176.53)
+			(xy 166.37 173.99) (xy 154.94 173.99)
 		)
 		(stroke
 			(width 0)
@@ -7456,7 +7506,7 @@
 	)
 	(wire
 		(pts
-			(xy 66.04 140.97) (xy 74.93 140.97)
+			(xy 78.74 138.43) (xy 87.63 138.43)
 		)
 		(stroke
 			(width 0)
@@ -7483,6 +7533,16 @@
 			(type default)
 		)
 		(uuid "fe37553c-0b32-493b-af51-3a55e7c2ef6b")
+	)
+	(wire
+		(pts
+			(xy 100.33 130.81) (xy 104.14 130.81)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fe6b43f9-5b0a-4644-aab7-a353dc35d76c")
 	)
 	(wire
 		(pts
@@ -7535,7 +7595,7 @@
 		(uuid "0f5625df-259e-488b-8d04-334ef093a6d6")
 	)
 	(label "MotorB"
-		(at 74.93 140.97 180)
+		(at 87.63 138.43 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7603,6 +7663,16 @@
 			(justify right bottom)
 		)
 		(uuid "3f588d64-fe8e-4034-9158-286c070edb6b")
+	)
+	(label "GLB"
+		(at 59.69 151.13 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "40d7f3d0-ec26-40f5-a1ae-60ec2429b739")
 	)
 	(label "BL"
 		(at 130.81 21.59 270)
@@ -7684,6 +7754,26 @@
 		)
 		(uuid "75142857-9e5e-4015-953d-8f3278aedd25")
 	)
+	(label "GHC"
+		(at 100.33 130.81 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "7b531e71-fef4-4417-ba36-472068a68780")
+	)
+	(label "GHA"
+		(at 19.05 130.81 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "7e34a964-9cfc-4ddb-84be-c1bc5d828236")
+	)
 	(label "SEN_A"
 		(at 231.14 48.26 270)
 		(effects
@@ -7705,7 +7795,7 @@
 		(uuid "86608182-859b-4759-84a3-361570b01b0d")
 	)
 	(label "ADC_CURR"
-		(at 153.67 176.53 180)
+		(at 166.37 173.99 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7734,8 +7824,18 @@
 		)
 		(uuid "8d22826a-cc15-41c5-84dd-8f4b36383820")
 	)
+	(label "GLC"
+		(at 100.33 151.13 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "8eec6524-713d-4244-a9b4-5b6602fac224")
+	)
 	(label "MotorC"
-		(at 111.76 140.97 180)
+		(at 128.27 138.43 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7745,7 +7845,7 @@
 		(uuid "8ef85d14-bb51-47d7-ba39-f5761812c68f")
 	)
 	(label "MotorA"
-		(at 38.1 140.97 180)
+		(at 46.99 138.43 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7753,6 +7853,26 @@
 			(justify right bottom)
 		)
 		(uuid "a02b0dc0-daab-4bcf-ba38-8eeb0c2e830a")
+	)
+	(label "GHB"
+		(at 59.69 130.81 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "addebc4e-85bc-46c8-b3b8-00d73c4cbf1d")
+	)
+	(label "GLA"
+		(at 19.05 151.13 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "b4f4a194-0828-41bf-8729-7e5cd5df04d1")
 	)
 	(label "CL"
 		(at 128.27 21.59 270)
@@ -7933,7 +8053,7 @@
 	)
 	(symbol
 		(lib_id "power:+3V3")
-		(at 83.82 168.91 0)
+		(at 96.52 166.37 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -7941,7 +8061,7 @@
 		(dnp no)
 		(uuid "0358b00e-4d77-47e8-92ae-2f0a615b68e0")
 		(property "Reference" "#PWR031"
-			(at 83.82 172.72 0)
+			(at 96.52 170.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7950,7 +8070,7 @@
 			)
 		)
 		(property "Value" "+3V3"
-			(at 83.82 165.1 0)
+			(at 96.52 162.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7958,7 +8078,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 83.82 168.91 0)
+			(at 96.52 166.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7967,7 +8087,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 83.82 168.91 0)
+			(at 96.52 166.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7976,7 +8096,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+3V3\""
-			(at 83.82 168.91 0)
+			(at 96.52 166.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8203,7 +8323,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 91.44 133.35 90)
+		(at 107.95 130.81 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -8212,7 +8332,7 @@
 		(fields_autoplaced yes)
 		(uuid "0f05b366-706d-444b-a3a9-c3282c6e7cc2")
 		(property "Reference" "R7"
-			(at 91.44 127 90)
+			(at 107.95 124.46 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8220,7 +8340,7 @@
 			)
 		)
 		(property "Value" "R"
-			(at 91.44 129.54 90)
+			(at 107.95 127 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8228,7 +8348,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 91.44 135.128 90)
+			(at 107.95 132.588 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8237,7 +8357,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 91.44 133.35 0)
+			(at 107.95 130.81 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8246,7 +8366,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 91.44 133.35 0)
+			(at 107.95 130.81 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8657,7 +8777,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 17.78 133.35 90)
+		(at 26.67 130.81 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -8666,7 +8786,7 @@
 		(fields_autoplaced yes)
 		(uuid "1a5e6049-72b3-413c-81b0-71e4e2b0a21e")
 		(property "Reference" "R5"
-			(at 17.78 127 90)
+			(at 26.67 124.46 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8674,7 +8794,7 @@
 			)
 		)
 		(property "Value" "R"
-			(at 17.78 129.54 90)
+			(at 26.67 127 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8682,7 +8802,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 17.78 135.128 90)
+			(at 26.67 132.588 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8691,7 +8811,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 17.78 133.35 0)
+			(at 26.67 130.81 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8700,7 +8820,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 17.78 133.35 0)
+			(at 26.67 130.81 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8725,7 +8845,7 @@
 	)
 	(symbol
 		(lib_id "PCM_SparkFun-PowerSymbol:GND")
-		(at 142.24 186.69 0)
+		(at 154.94 184.15 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -8733,7 +8853,7 @@
 		(dnp no)
 		(uuid "21cf5679-977f-4538-9dda-93bf37de8745")
 		(property "Reference" "#PWR026"
-			(at 142.24 193.04 0)
+			(at 154.94 190.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8742,7 +8862,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 142.24 190.754 0)
+			(at 154.94 188.214 0)
 			(do_not_autoplace yes)
 			(effects
 				(font
@@ -8751,7 +8871,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 142.24 186.69 0)
+			(at 154.94 184.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8760,7 +8880,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 142.24 186.69 0)
+			(at 154.94 184.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8769,7 +8889,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 142.24 195.58 0)
+			(at 154.94 193.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9108,7 +9228,7 @@
 	)
 	(symbol
 		(lib_id "TPHR8504PL_L1Q:TPHR8504PL_L1Q")
-		(at 66.04 151.13 0)
+		(at 78.74 148.59 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -9117,7 +9237,7 @@
 		(fields_autoplaced yes)
 		(uuid "2960d794-4184-4d97-a371-c0ca9fa8987f")
 		(property "Reference" "Q5"
-			(at 68.58 149.8599 0)
+			(at 81.28 147.3199 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9126,7 +9246,7 @@
 			)
 		)
 		(property "Value" "TPHR8504PL_L1Q"
-			(at 68.58 152.3999 0)
+			(at 81.28 149.8599 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9135,7 +9255,7 @@
 			)
 		)
 		(property "Footprint" "TPHR8504PL_L1Q:TRANS_TPHR8504PL_L1Q"
-			(at 66.04 151.13 0)
+			(at 78.74 148.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9145,7 +9265,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 66.04 151.13 0)
+			(at 78.74 148.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9154,7 +9274,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 66.04 151.13 0)
+			(at 78.74 148.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9163,7 +9283,7 @@
 			)
 		)
 		(property "MF" "Toshiba Semiconductor"
-			(at 66.04 151.13 0)
+			(at 78.74 148.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9173,7 +9293,7 @@
 			)
 		)
 		(property "Description_1" "N-Channel 40 V 150A (Tc) 1W (Ta), 170W (Tc) Surface Mount 8-SOP Advance (5x5)"
-			(at 66.04 151.13 0)
+			(at 78.74 148.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9183,7 +9303,7 @@
 			)
 		)
 		(property "Package" "SOP-8 Toshiba"
-			(at 66.04 151.13 0)
+			(at 78.74 148.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9193,7 +9313,7 @@
 			)
 		)
 		(property "Price" "None"
-			(at 66.04 151.13 0)
+			(at 78.74 148.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9203,7 +9323,7 @@
 			)
 		)
 		(property "Check_prices" "https://www.snapeda.com/parts/TPHR8504PL,L1Q/Toshiba/view-part/?ref=eda"
-			(at 66.04 151.13 0)
+			(at 78.74 148.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9213,7 +9333,7 @@
 			)
 		)
 		(property "STANDARD" "Manufacturer Recommendations"
-			(at 66.04 151.13 0)
+			(at 78.74 148.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9223,7 +9343,7 @@
 			)
 		)
 		(property "PARTREV" "3"
-			(at 66.04 151.13 0)
+			(at 78.74 148.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9233,7 +9353,7 @@
 			)
 		)
 		(property "SnapEDA_Link" "https://www.snapeda.com/parts/TPHR8504PL,L1Q/Toshiba/view-part/?ref=snap"
-			(at 66.04 151.13 0)
+			(at 78.74 148.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9243,7 +9363,7 @@
 			)
 		)
 		(property "MP" "TPHR8504PL,L1Q"
-			(at 66.04 151.13 0)
+			(at 78.74 148.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9253,7 +9373,7 @@
 			)
 		)
 		(property "Availability" "In Stock"
-			(at 66.04 151.13 0)
+			(at 78.74 148.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9263,7 +9383,7 @@
 			)
 		)
 		(property "MANUFACTURER" "TOSHIBA"
-			(at 66.04 151.13 0)
+			(at 78.74 148.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9577,7 +9697,7 @@
 	)
 	(symbol
 		(lib_id "PCM_SparkFun-PowerSymbol:VBATT")
-		(at 66.04 121.92 0)
+		(at 78.74 119.38 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -9586,7 +9706,7 @@
 		(fields_autoplaced yes)
 		(uuid "2c1e6c21-c2e0-43e6-a3c8-bb0e3cbb176a")
 		(property "Reference" "#PWR027"
-			(at 66.04 125.73 0)
+			(at 78.74 123.19 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9595,7 +9715,7 @@
 			)
 		)
 		(property "Value" "VBATT"
-			(at 66.04 118.11 0)
+			(at 78.74 115.57 0)
 			(do_not_autoplace yes)
 			(effects
 				(font
@@ -9604,7 +9724,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 66.04 121.92 0)
+			(at 78.74 119.38 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9613,7 +9733,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 66.04 121.92 0)
+			(at 78.74 119.38 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9622,7 +9742,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"VBATT\""
-			(at 66.04 128.27 0)
+			(at 78.74 125.73 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9843,7 +9963,7 @@
 	)
 	(symbol
 		(lib_id "PCM_SparkFun-PowerSymbol:GND")
-		(at 128.27 186.69 0)
+		(at 140.97 184.15 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -9851,7 +9971,7 @@
 		(dnp no)
 		(uuid "377829f3-f52d-4a18-8c96-92c4e0bacc8e")
 		(property "Reference" "#PWR028"
-			(at 128.27 193.04 0)
+			(at 140.97 190.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9860,7 +9980,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 128.27 190.754 0)
+			(at 140.97 188.214 0)
 			(do_not_autoplace yes)
 			(effects
 				(font
@@ -9869,7 +9989,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 128.27 186.69 0)
+			(at 140.97 184.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9878,7 +9998,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 128.27 186.69 0)
+			(at 140.97 184.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9887,7 +10007,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 128.27 195.58 0)
+			(at 140.97 193.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9909,7 +10029,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 17.78 153.67 90)
+		(at 26.67 151.13 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -9918,7 +10038,7 @@
 		(fields_autoplaced yes)
 		(uuid "3c457594-8ac7-4399-901d-af10ed854548")
 		(property "Reference" "R8"
-			(at 17.78 147.32 90)
+			(at 26.67 144.78 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9926,7 +10046,7 @@
 			)
 		)
 		(property "Value" "R"
-			(at 17.78 149.86 90)
+			(at 26.67 147.32 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9934,7 +10054,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 17.78 155.448 90)
+			(at 26.67 152.908 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9943,7 +10063,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 17.78 153.67 0)
+			(at 26.67 151.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9952,7 +10072,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 17.78 153.67 0)
+			(at 26.67 151.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9977,7 +10097,7 @@
 	)
 	(symbol
 		(lib_id "PCM_SparkFun-PowerSymbol:GND")
-		(at 66.04 191.77 0)
+		(at 78.74 189.23 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -9985,7 +10105,7 @@
 		(dnp no)
 		(uuid "3edb414b-1fa3-4ecf-851f-2d666b43ecaf")
 		(property "Reference" "#PWR029"
-			(at 66.04 198.12 0)
+			(at 78.74 195.58 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9994,7 +10114,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 66.04 195.834 0)
+			(at 78.74 193.294 0)
 			(do_not_autoplace yes)
 			(effects
 				(font
@@ -10003,7 +10123,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 66.04 191.77 0)
+			(at 78.74 189.23 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10012,7 +10132,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 66.04 191.77 0)
+			(at 78.74 189.23 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10021,7 +10141,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 66.04 200.66 0)
+			(at 78.74 198.12 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10043,7 +10163,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 54.61 153.67 90)
+		(at 67.31 151.13 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -10052,7 +10172,7 @@
 		(fields_autoplaced yes)
 		(uuid "3fb1e591-354f-41e7-a099-b04e2903bbf4")
 		(property "Reference" "R9"
-			(at 54.61 147.32 90)
+			(at 67.31 144.78 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10060,7 +10180,7 @@
 			)
 		)
 		(property "Value" "R"
-			(at 54.61 149.86 90)
+			(at 67.31 147.32 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10068,7 +10188,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 54.61 155.448 90)
+			(at 67.31 152.908 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10077,7 +10197,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 54.61 153.67 0)
+			(at 67.31 151.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10086,7 +10206,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 54.61 153.67 0)
+			(at 67.31 151.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11036,7 +11156,7 @@
 	)
 	(symbol
 		(lib_id "PCM_SparkFun-Capacitor:C")
-		(at 76.2 176.53 270)
+		(at 88.9 173.99 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -11044,7 +11164,7 @@
 		(dnp no)
 		(uuid "53fee042-9980-4787-8753-518e0371cc61")
 		(property "Reference" "C25"
-			(at 78.232 173.99 90)
+			(at 90.932 171.45 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11053,7 +11173,7 @@
 			)
 		)
 		(property "Value" "100n"
-			(at 78.994 172.212 90)
+			(at 91.694 169.672 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11062,7 +11182,7 @@
 			)
 		)
 		(property "Footprint" "PCM_SparkFun-Capacitor:C_0603_1608Metric"
-			(at 64.77 177.4952 0)
+			(at 77.47 174.9552 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11071,7 +11191,7 @@
 			)
 		)
 		(property "Datasheet" "https://cdn.sparkfun.com/assets/8/a/4/a/5/Kemet_Capacitor_Datasheet.pdf"
-			(at 59.69 177.8 0)
+			(at 72.39 175.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11080,7 +11200,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 57.15 176.53 0)
+			(at 69.85 173.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11089,7 +11209,7 @@
 			)
 		)
 		(property "PROD_ID" "CAP-00000"
-			(at 62.23 176.53 0)
+			(at 74.93 173.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11098,7 +11218,7 @@
 			)
 		)
 		(property "Voltage" "1kV"
-			(at 74.9238 179.07 0)
+			(at 87.6238 176.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11108,7 +11228,7 @@
 			)
 		)
 		(property "Tolerance" "100%"
-			(at 72.3838 179.07 0)
+			(at 85.0838 176.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11134,7 +11254,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 66.04 185.42 180)
+		(at 78.74 182.88 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -11142,7 +11262,7 @@
 		(dnp no)
 		(uuid "545b57e2-65fb-43c2-80a3-4ca6b9892b43")
 		(property "Reference" "R11"
-			(at 63.5 183.388 0)
+			(at 76.2 180.848 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11150,7 +11270,7 @@
 			)
 		)
 		(property "Value" "0.001"
-			(at 62.992 186.944 0)
+			(at 75.692 184.404 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11158,7 +11278,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 67.818 185.42 90)
+			(at 80.518 182.88 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11167,7 +11287,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 66.04 185.42 0)
+			(at 78.74 182.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11176,7 +11296,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 66.04 185.42 0)
+			(at 78.74 182.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11299,7 +11419,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 91.44 153.67 90)
+		(at 107.95 151.13 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -11308,7 +11428,7 @@
 		(fields_autoplaced yes)
 		(uuid "5b7cfcc3-cb70-4842-bd00-e44795fe8239")
 		(property "Reference" "R10"
-			(at 91.44 147.32 90)
+			(at 107.95 144.78 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11316,7 +11436,7 @@
 			)
 		)
 		(property "Value" "R"
-			(at 91.44 149.86 90)
+			(at 107.95 147.32 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11324,7 +11444,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 91.44 155.448 90)
+			(at 107.95 152.908 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11333,7 +11453,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 91.44 153.67 0)
+			(at 107.95 151.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11342,7 +11462,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 91.44 153.67 0)
+			(at 107.95 151.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11667,7 +11787,7 @@
 	)
 	(symbol
 		(lib_id "TPHR8504PL_L1Q:TPHR8504PL_L1Q")
-		(at 29.21 151.13 0)
+		(at 38.1 148.59 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -11676,7 +11796,7 @@
 		(fields_autoplaced yes)
 		(uuid "6a859782-5303-48f8-a053-9eb646bc6299")
 		(property "Reference" "Q4"
-			(at 31.75 149.8599 0)
+			(at 40.64 147.3199 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11685,7 +11805,7 @@
 			)
 		)
 		(property "Value" "TPHR8504PL_L1Q"
-			(at 31.75 152.3999 0)
+			(at 40.64 149.8599 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11694,7 +11814,7 @@
 			)
 		)
 		(property "Footprint" "TPHR8504PL_L1Q:TRANS_TPHR8504PL_L1Q"
-			(at 29.21 151.13 0)
+			(at 38.1 148.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11704,7 +11824,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 29.21 151.13 0)
+			(at 38.1 148.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11713,7 +11833,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 29.21 151.13 0)
+			(at 38.1 148.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11722,7 +11842,7 @@
 			)
 		)
 		(property "MF" "Toshiba Semiconductor"
-			(at 29.21 151.13 0)
+			(at 38.1 148.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11732,7 +11852,7 @@
 			)
 		)
 		(property "Description_1" "N-Channel 40 V 150A (Tc) 1W (Ta), 170W (Tc) Surface Mount 8-SOP Advance (5x5)"
-			(at 29.21 151.13 0)
+			(at 38.1 148.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11742,7 +11862,7 @@
 			)
 		)
 		(property "Package" "SOP-8 Toshiba"
-			(at 29.21 151.13 0)
+			(at 38.1 148.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11752,7 +11872,7 @@
 			)
 		)
 		(property "Price" "None"
-			(at 29.21 151.13 0)
+			(at 38.1 148.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11762,7 +11882,7 @@
 			)
 		)
 		(property "Check_prices" "https://www.snapeda.com/parts/TPHR8504PL,L1Q/Toshiba/view-part/?ref=eda"
-			(at 29.21 151.13 0)
+			(at 38.1 148.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11772,7 +11892,7 @@
 			)
 		)
 		(property "STANDARD" "Manufacturer Recommendations"
-			(at 29.21 151.13 0)
+			(at 38.1 148.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11782,7 +11902,7 @@
 			)
 		)
 		(property "PARTREV" "3"
-			(at 29.21 151.13 0)
+			(at 38.1 148.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11792,7 +11912,7 @@
 			)
 		)
 		(property "SnapEDA_Link" "https://www.snapeda.com/parts/TPHR8504PL,L1Q/Toshiba/view-part/?ref=snap"
-			(at 29.21 151.13 0)
+			(at 38.1 148.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11802,7 +11922,7 @@
 			)
 		)
 		(property "MP" "TPHR8504PL,L1Q"
-			(at 29.21 151.13 0)
+			(at 38.1 148.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11812,7 +11932,7 @@
 			)
 		)
 		(property "Availability" "In Stock"
-			(at 29.21 151.13 0)
+			(at 38.1 148.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11822,7 +11942,7 @@
 			)
 		)
 		(property "MANUFACTURER" "TOSHIBA"
-			(at 29.21 151.13 0)
+			(at 38.1 148.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12001,7 +12121,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 54.61 133.35 90)
+		(at 67.31 130.81 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -12010,7 +12130,7 @@
 		(fields_autoplaced yes)
 		(uuid "725f18d1-0b6d-4a64-be2f-11ec3523d5c3")
 		(property "Reference" "R6"
-			(at 54.61 127 90)
+			(at 67.31 124.46 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12018,7 +12138,7 @@
 			)
 		)
 		(property "Value" "R"
-			(at 54.61 129.54 90)
+			(at 67.31 127 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12026,7 +12146,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 54.61 135.128 90)
+			(at 67.31 132.588 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12035,7 +12155,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 54.61 133.35 0)
+			(at 67.31 130.81 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12044,7 +12164,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 54.61 133.35 0)
+			(at 67.31 130.81 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12069,7 +12189,7 @@
 	)
 	(symbol
 		(lib_id "PCM_SparkFun-Capacitor:C")
-		(at 142.24 180.34 180)
+		(at 154.94 177.8 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -12077,7 +12197,7 @@
 		(dnp no)
 		(uuid "739f718e-5965-4c64-bb6f-052a1a6620e2")
 		(property "Reference" "C24"
-			(at 135.636 180.086 0)
+			(at 148.336 177.546 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12086,7 +12206,7 @@
 			)
 		)
 		(property "Value" "100 n"
-			(at 134.874 181.864 0)
+			(at 147.574 179.324 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12095,7 +12215,7 @@
 			)
 		)
 		(property "Footprint" "PCM_SparkFun-Capacitor:C_0603_1608Metric"
-			(at 141.2748 168.91 0)
+			(at 153.9748 166.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12104,7 +12224,7 @@
 			)
 		)
 		(property "Datasheet" "https://cdn.sparkfun.com/assets/8/a/4/a/5/Kemet_Capacitor_Datasheet.pdf"
-			(at 140.97 163.83 0)
+			(at 153.67 161.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12113,7 +12233,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 142.24 161.29 0)
+			(at 154.94 158.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12122,7 +12242,7 @@
 			)
 		)
 		(property "PROD_ID" "CAP-00000"
-			(at 142.24 166.37 0)
+			(at 154.94 163.83 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12131,7 +12251,7 @@
 			)
 		)
 		(property "Voltage" "1kV"
-			(at 139.7 179.0638 0)
+			(at 152.4 176.5238 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12141,7 +12261,7 @@
 			)
 		)
 		(property "Tolerance" "100%"
-			(at 139.7 176.5238 0)
+			(at 152.4 173.9838 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12334,7 +12454,7 @@
 	)
 	(symbol
 		(lib_id "TPHR8504PL_L1Q:TPHR8504PL_L1Q")
-		(at 102.87 151.13 0)
+		(at 119.38 148.59 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -12343,7 +12463,7 @@
 		(fields_autoplaced yes)
 		(uuid "7ae5b15a-65ae-4482-8768-7d6f0fdda311")
 		(property "Reference" "Q6"
-			(at 105.41 149.8599 0)
+			(at 121.92 147.3199 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12352,7 +12472,7 @@
 			)
 		)
 		(property "Value" "TPHR8504PL_L1Q"
-			(at 105.41 152.3999 0)
+			(at 121.92 149.8599 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12361,7 +12481,7 @@
 			)
 		)
 		(property "Footprint" "TPHR8504PL_L1Q:TRANS_TPHR8504PL_L1Q"
-			(at 102.87 151.13 0)
+			(at 119.38 148.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12371,7 +12491,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 102.87 151.13 0)
+			(at 119.38 148.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12380,7 +12500,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 102.87 151.13 0)
+			(at 119.38 148.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12389,7 +12509,7 @@
 			)
 		)
 		(property "MF" "Toshiba Semiconductor"
-			(at 102.87 151.13 0)
+			(at 119.38 148.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12399,7 +12519,7 @@
 			)
 		)
 		(property "Description_1" "N-Channel 40 V 150A (Tc) 1W (Ta), 170W (Tc) Surface Mount 8-SOP Advance (5x5)"
-			(at 102.87 151.13 0)
+			(at 119.38 148.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12409,7 +12529,7 @@
 			)
 		)
 		(property "Package" "SOP-8 Toshiba"
-			(at 102.87 151.13 0)
+			(at 119.38 148.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12419,7 +12539,7 @@
 			)
 		)
 		(property "Price" "None"
-			(at 102.87 151.13 0)
+			(at 119.38 148.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12429,7 +12549,7 @@
 			)
 		)
 		(property "Check_prices" "https://www.snapeda.com/parts/TPHR8504PL,L1Q/Toshiba/view-part/?ref=eda"
-			(at 102.87 151.13 0)
+			(at 119.38 148.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12439,7 +12559,7 @@
 			)
 		)
 		(property "STANDARD" "Manufacturer Recommendations"
-			(at 102.87 151.13 0)
+			(at 119.38 148.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12449,7 +12569,7 @@
 			)
 		)
 		(property "PARTREV" "3"
-			(at 102.87 151.13 0)
+			(at 119.38 148.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12459,7 +12579,7 @@
 			)
 		)
 		(property "SnapEDA_Link" "https://www.snapeda.com/parts/TPHR8504PL,L1Q/Toshiba/view-part/?ref=snap"
-			(at 102.87 151.13 0)
+			(at 119.38 148.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12469,7 +12589,7 @@
 			)
 		)
 		(property "MP" "TPHR8504PL,L1Q"
-			(at 102.87 151.13 0)
+			(at 119.38 148.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12479,7 +12599,7 @@
 			)
 		)
 		(property "Availability" "In Stock"
-			(at 102.87 151.13 0)
+			(at 119.38 148.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12489,7 +12609,7 @@
 			)
 		)
 		(property "MANUFACTURER" "TOSHIBA"
-			(at 102.87 151.13 0)
+			(at 119.38 148.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13081,7 +13201,7 @@
 	)
 	(symbol
 		(lib_id "TPHR8504PL_L1Q:TPHR8504PL_L1Q")
-		(at 66.04 130.81 0)
+		(at 78.74 128.27 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -13090,7 +13210,7 @@
 		(fields_autoplaced yes)
 		(uuid "958f3040-3491-4f09-a193-6035acaf02e7")
 		(property "Reference" "Q2"
-			(at 68.58 129.5399 0)
+			(at 81.28 126.9999 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13099,7 +13219,7 @@
 			)
 		)
 		(property "Value" "TPHR8504PL_L1Q"
-			(at 68.58 132.0799 0)
+			(at 81.28 129.5399 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13108,7 +13228,7 @@
 			)
 		)
 		(property "Footprint" "TPHR8504PL_L1Q:TRANS_TPHR8504PL_L1Q"
-			(at 66.04 130.81 0)
+			(at 78.74 128.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13118,7 +13238,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 66.04 130.81 0)
+			(at 78.74 128.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13127,7 +13247,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 66.04 130.81 0)
+			(at 78.74 128.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13136,7 +13256,7 @@
 			)
 		)
 		(property "MF" "Toshiba Semiconductor"
-			(at 66.04 130.81 0)
+			(at 78.74 128.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13146,7 +13266,7 @@
 			)
 		)
 		(property "Description_1" "N-Channel 40 V 150A (Tc) 1W (Ta), 170W (Tc) Surface Mount 8-SOP Advance (5x5)"
-			(at 66.04 130.81 0)
+			(at 78.74 128.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13156,7 +13276,7 @@
 			)
 		)
 		(property "Package" "SOP-8 Toshiba"
-			(at 66.04 130.81 0)
+			(at 78.74 128.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13166,7 +13286,7 @@
 			)
 		)
 		(property "Price" "None"
-			(at 66.04 130.81 0)
+			(at 78.74 128.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13176,7 +13296,7 @@
 			)
 		)
 		(property "Check_prices" "https://www.snapeda.com/parts/TPHR8504PL,L1Q/Toshiba/view-part/?ref=eda"
-			(at 66.04 130.81 0)
+			(at 78.74 128.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13186,7 +13306,7 @@
 			)
 		)
 		(property "STANDARD" "Manufacturer Recommendations"
-			(at 66.04 130.81 0)
+			(at 78.74 128.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13196,7 +13316,7 @@
 			)
 		)
 		(property "PARTREV" "3"
-			(at 66.04 130.81 0)
+			(at 78.74 128.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13206,7 +13326,7 @@
 			)
 		)
 		(property "SnapEDA_Link" "https://www.snapeda.com/parts/TPHR8504PL,L1Q/Toshiba/view-part/?ref=snap"
-			(at 66.04 130.81 0)
+			(at 78.74 128.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13216,7 +13336,7 @@
 			)
 		)
 		(property "MP" "TPHR8504PL,L1Q"
-			(at 66.04 130.81 0)
+			(at 78.74 128.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13226,7 +13346,7 @@
 			)
 		)
 		(property "Availability" "In Stock"
-			(at 66.04 130.81 0)
+			(at 78.74 128.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13236,7 +13356,7 @@
 			)
 		)
 		(property "MANUFACTURER" "TOSHIBA"
-			(at 66.04 130.81 0)
+			(at 78.74 128.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13581,7 +13701,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 135.89 176.53 90)
+		(at 148.59 173.99 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -13589,7 +13709,7 @@
 		(dnp no)
 		(uuid "a474d3fc-3bd3-46ff-93da-47d2c072c351")
 		(property "Reference" "R12"
-			(at 135.89 174.498 90)
+			(at 148.59 171.958 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13597,7 +13717,7 @@
 			)
 		)
 		(property "Value" "8.9k"
-			(at 136.144 176.53 90)
+			(at 148.844 173.99 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13605,7 +13725,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 135.89 178.308 90)
+			(at 148.59 175.768 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13614,7 +13734,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 135.89 176.53 0)
+			(at 148.59 173.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13623,7 +13743,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 135.89 176.53 0)
+			(at 148.59 173.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13648,7 +13768,7 @@
 	)
 	(symbol
 		(lib_id "PCM_SparkFun-PowerSymbol:GND")
-		(at 71.12 168.91 180)
+		(at 83.82 166.37 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -13656,7 +13776,7 @@
 		(dnp no)
 		(uuid "ab55558e-2b51-483a-b0a0-c552487b2fbd")
 		(property "Reference" "#PWR030"
-			(at 71.12 162.56 0)
+			(at 83.82 160.02 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13665,7 +13785,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 71.12 164.846 0)
+			(at 83.82 162.306 0)
 			(do_not_autoplace yes)
 			(effects
 				(font
@@ -13674,7 +13794,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 71.12 168.91 0)
+			(at 83.82 166.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13683,7 +13803,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 71.12 168.91 0)
+			(at 83.82 166.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13692,7 +13812,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 71.12 160.02 0)
+			(at 83.82 157.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14044,7 +14164,7 @@
 	)
 	(symbol
 		(lib_id "2026-02-15_07-27-51:INA180B3IDBVR")
-		(at 105.41 181.61 0)
+		(at 118.11 179.07 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -14053,7 +14173,7 @@
 		(fields_autoplaced yes)
 		(uuid "b81479c5-127d-4e6f-bdb1-c2822457e41d")
 		(property "Reference" "U4"
-			(at 105.41 166.37 0)
+			(at 118.11 163.83 0)
 			(effects
 				(font
 					(size 1.524 1.524)
@@ -14061,7 +14181,7 @@
 			)
 		)
 		(property "Value" "INA180B3IDBVR"
-			(at 105.41 168.91 0)
+			(at 118.11 166.37 0)
 			(effects
 				(font
 					(size 1.524 1.524)
@@ -14069,7 +14189,7 @@
 			)
 		)
 		(property "Footprint" "DBV0005A_N"
-			(at 105.41 181.61 0)
+			(at 118.11 179.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14079,7 +14199,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.ti.com/lit/gpn/ina180"
-			(at 105.41 181.61 0)
+			(at 118.11 179.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14089,7 +14209,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 105.41 181.61 0)
+			(at 118.11 179.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14452,7 +14572,7 @@
 	)
 	(symbol
 		(lib_id "TPHR8504PL_L1Q:TPHR8504PL_L1Q")
-		(at 29.21 130.81 0)
+		(at 38.1 128.27 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -14461,7 +14581,7 @@
 		(fields_autoplaced yes)
 		(uuid "c4583ec3-ecdc-41b0-8916-366b91af639d")
 		(property "Reference" "Q1"
-			(at 31.75 129.5399 0)
+			(at 40.64 126.9999 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14470,7 +14590,7 @@
 			)
 		)
 		(property "Value" "TPHR8504PL_L1Q"
-			(at 31.75 132.0799 0)
+			(at 40.64 129.5399 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14479,7 +14599,7 @@
 			)
 		)
 		(property "Footprint" "TPHR8504PL_L1Q:TRANS_TPHR8504PL_L1Q"
-			(at 29.21 130.81 0)
+			(at 38.1 128.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14489,7 +14609,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 29.21 130.81 0)
+			(at 38.1 128.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14498,7 +14618,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 29.21 130.81 0)
+			(at 38.1 128.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14507,7 +14627,7 @@
 			)
 		)
 		(property "MF" "Toshiba Semiconductor"
-			(at 29.21 130.81 0)
+			(at 38.1 128.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14517,7 +14637,7 @@
 			)
 		)
 		(property "Description_1" "N-Channel 40 V 150A (Tc) 1W (Ta), 170W (Tc) Surface Mount 8-SOP Advance (5x5)"
-			(at 29.21 130.81 0)
+			(at 38.1 128.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14527,7 +14647,7 @@
 			)
 		)
 		(property "Package" "SOP-8 Toshiba"
-			(at 29.21 130.81 0)
+			(at 38.1 128.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14537,7 +14657,7 @@
 			)
 		)
 		(property "Price" "None"
-			(at 29.21 130.81 0)
+			(at 38.1 128.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14547,7 +14667,7 @@
 			)
 		)
 		(property "Check_prices" "https://www.snapeda.com/parts/TPHR8504PL,L1Q/Toshiba/view-part/?ref=eda"
-			(at 29.21 130.81 0)
+			(at 38.1 128.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14557,7 +14677,7 @@
 			)
 		)
 		(property "STANDARD" "Manufacturer Recommendations"
-			(at 29.21 130.81 0)
+			(at 38.1 128.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14567,7 +14687,7 @@
 			)
 		)
 		(property "PARTREV" "3"
-			(at 29.21 130.81 0)
+			(at 38.1 128.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14577,7 +14697,7 @@
 			)
 		)
 		(property "SnapEDA_Link" "https://www.snapeda.com/parts/TPHR8504PL,L1Q/Toshiba/view-part/?ref=snap"
-			(at 29.21 130.81 0)
+			(at 38.1 128.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14587,7 +14707,7 @@
 			)
 		)
 		(property "MP" "TPHR8504PL,L1Q"
-			(at 29.21 130.81 0)
+			(at 38.1 128.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14597,7 +14717,7 @@
 			)
 		)
 		(property "Availability" "In Stock"
-			(at 29.21 130.81 0)
+			(at 38.1 128.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14607,7 +14727,7 @@
 			)
 		)
 		(property "MANUFACTURER" "TOSHIBA"
-			(at 29.21 130.81 0)
+			(at 38.1 128.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14654,7 +14774,7 @@
 	)
 	(symbol
 		(lib_id "TPHR8504PL_L1Q:TPHR8504PL_L1Q")
-		(at 102.87 130.81 0)
+		(at 119.38 128.27 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -14663,7 +14783,7 @@
 		(fields_autoplaced yes)
 		(uuid "cfabee69-3312-45e3-863a-6696d65e18c9")
 		(property "Reference" "Q3"
-			(at 105.41 129.5399 0)
+			(at 121.92 126.9999 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14672,7 +14792,7 @@
 			)
 		)
 		(property "Value" "TPHR8504PL_L1Q"
-			(at 105.41 132.0799 0)
+			(at 121.92 129.5399 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14681,7 +14801,7 @@
 			)
 		)
 		(property "Footprint" "TPHR8504PL_L1Q:TRANS_TPHR8504PL_L1Q"
-			(at 102.87 130.81 0)
+			(at 119.38 128.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14691,7 +14811,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 102.87 130.81 0)
+			(at 119.38 128.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14700,7 +14820,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 102.87 130.81 0)
+			(at 119.38 128.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14709,7 +14829,7 @@
 			)
 		)
 		(property "MF" "Toshiba Semiconductor"
-			(at 102.87 130.81 0)
+			(at 119.38 128.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14719,7 +14839,7 @@
 			)
 		)
 		(property "Description_1" "N-Channel 40 V 150A (Tc) 1W (Ta), 170W (Tc) Surface Mount 8-SOP Advance (5x5)"
-			(at 102.87 130.81 0)
+			(at 119.38 128.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14729,7 +14849,7 @@
 			)
 		)
 		(property "Package" "SOP-8 Toshiba"
-			(at 102.87 130.81 0)
+			(at 119.38 128.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14739,7 +14859,7 @@
 			)
 		)
 		(property "Price" "None"
-			(at 102.87 130.81 0)
+			(at 119.38 128.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14749,7 +14869,7 @@
 			)
 		)
 		(property "Check_prices" "https://www.snapeda.com/parts/TPHR8504PL,L1Q/Toshiba/view-part/?ref=eda"
-			(at 102.87 130.81 0)
+			(at 119.38 128.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14759,7 +14879,7 @@
 			)
 		)
 		(property "STANDARD" "Manufacturer Recommendations"
-			(at 102.87 130.81 0)
+			(at 119.38 128.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14769,7 +14889,7 @@
 			)
 		)
 		(property "PARTREV" "3"
-			(at 102.87 130.81 0)
+			(at 119.38 128.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14779,7 +14899,7 @@
 			)
 		)
 		(property "SnapEDA_Link" "https://www.snapeda.com/parts/TPHR8504PL,L1Q/Toshiba/view-part/?ref=snap"
-			(at 102.87 130.81 0)
+			(at 119.38 128.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14789,7 +14909,7 @@
 			)
 		)
 		(property "MP" "TPHR8504PL,L1Q"
-			(at 102.87 130.81 0)
+			(at 119.38 128.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14799,7 +14919,7 @@
 			)
 		)
 		(property "Availability" "In Stock"
-			(at 102.87 130.81 0)
+			(at 119.38 128.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14809,7 +14929,7 @@
 			)
 		)
 		(property "MANUFACTURER" "TOSHIBA"
-			(at 102.87 130.81 0)
+			(at 119.38 128.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
